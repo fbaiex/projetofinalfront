@@ -12,14 +12,40 @@ a {
 
 .botfoot {
     background-color: rgb(216, 215, 215);
-    margin-left: 30%;
+    margin-left: 64em;
     border: double;
 
 }
 
 .afoot {
-    margin-left: 10px;
-    margin-right: 5px;
+    margin-left: 8px;
 
 }
 
+.div1 {
+background-color: burlywood;
+}
+
+.vcsabia{
+border: 5px solid yellowgreen;
+margin-left: 300px;
+
+}
+
+button:hover{
+background-color: olivedrab;
+padding: 50px, 40px;
+
+}
+
+a:hover{
+background-color:rgb(223, 96, 96);
+padding:0px;
+
+}
+
+button:active{
+background-color: black;
+padding: 50px, 40px;
+
+}
