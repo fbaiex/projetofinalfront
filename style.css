@@ -12,7 +12,7 @@ a {
 
 .botfoot {
     background-color: rgb(216, 215, 215);
-    margin-left: 64em;
+    margin-left: 50em;
     border: double;
 
 }
@@ -22,9 +22,7 @@ a {
 
 }
 
-.div1 {
-background-color: burlywood;
-}
+
 
 .vcsabia{
 border: 5px solid yellowgreen;
@@ -49,3 +47,14 @@ background-color: black;
 padding: 50px, 40px;
 
 }
+
+.form  {
+    border: 5px outset black;
+    background-color: lightblue;
+    padding-left: 15px;
+  }
+  
+  body{
+background-color: rgb(216, 228, 228);
+
+  }
