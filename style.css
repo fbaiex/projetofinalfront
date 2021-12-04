@@ -1,3 +1,20 @@
+h1 {
+    font-style: italic;
+    text-align: center;
+
+}
+
+.vcsabia{
+    border: 5px solid yellowgreen;
+    margin-left: 300px;
+    
+    }
+    
+    .vcsabia:hover{
+    background-color: tomato;
+    
+    }
+
 .pmain {
     font-size: 20px;
     margin-left: 10px;
@@ -5,30 +22,53 @@
 
 }
 
+h2 {
+    margin-left: 10px;
+   
+   }
+
+   
+.form  {
+    border: 5px outset black;
+    height: 225px;
+    width: 350px;
+    background-color: lightblue;
+    padding-left: 15px;
+    padding-top: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+  }
+  
+  
+.box {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 10px 20px;
+  }
+
+  .pfoot {
+    color: white;
+    
+    }
+
+  .botfoot {
+    background-color: rgb(216, 215, 215);
+    border: double;
+
+}
+
+
+footer{
+    background-color: black;
+}
+
 a {
     text-decoration: none;
 
 }
 
-.botfoot {
-    background-color: rgb(216, 215, 215);
-    margin-left: 50em;
-    border: double;
 
-}
-
-.afoot {
-    margin-left: 8px;
-
-}
-
-
-
-.vcsabia{
-border: 5px solid yellowgreen;
-margin-left: 300px;
-
-}
 
 button:hover{
 background-color: olivedrab;
@@ -36,11 +76,6 @@ padding: 50px, 40px;
 
 }
 
-a:hover{
-background-color:rgb(223, 96, 96);
-padding:0px;
-
-}
 
 button:active{
 background-color: black;
@@ -48,12 +83,7 @@ padding: 50px, 40px;
 
 }
 
-.form  {
-    border: 5px outset black;
-    background-color: lightblue;
-    padding-left: 15px;
-  }
-  
+
   body{
 background-color: rgb(216, 228, 228);
 
